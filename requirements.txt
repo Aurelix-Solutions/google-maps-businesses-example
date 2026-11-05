@@ -1,0 +1,2 @@
+# PUBLISH AFTER: google-maps-businesses is public on the Apify Store
+apify-client

@@ -5,9 +5,9 @@
 
 A small, runnable example for [Google Maps Business Scraper](https://apify.com/aurelix/google-maps-scraper), an Apify Actor by Aurelix.
 
-[![Google Maps Business Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v1.mp4)
+[![Google Maps Business Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-thumb-v2.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v2.mp4)
 
-**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v1.mp4)**
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v2.mp4)**
 
 ## What it does
 

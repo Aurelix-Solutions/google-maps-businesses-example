@@ -5,6 +5,10 @@
 
 A small, runnable example for [Google Maps Business Scraper](https://apify.com/aurelix/google-maps-scraper), an Apify Actor by Aurelix.
 
+[![Google Maps Business Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Google Maps Business Scraper turns Google Maps searches into one row per business: name, all categories, full and split address, phone in E.164, website, average rating and review count, opening hours for all 7 days, coordinates, time zone, place ID and CID. Give search terms and locations; every term runs in every location, up to 300 places each, and a place found twice is returned once. Review text and reviewer names are never collected.

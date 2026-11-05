@@ -1,9 +1,19 @@
 <!-- PUBLISH AFTER: google-maps-businesses is public on the Apify Store -->
 # Google Maps Business Scraper: Python example
 
-> Google Maps Business Scraper is being prepared for the Apify Store. The link below goes live when it is published.
+**The problem:** You need a list of local businesses for a trade in a city (name, phone, website, address, rating) without copying them from Google Maps by hand.
 
-A small, runnable example for [Google Maps Business Scraper](https://apify.com/aurelix/google-maps-scraper), an Apify Actor by Aurelix.
+**The tool:** [Google Maps Business Scraper](https://apify.com/aurelix/google-maps-scraper), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $1.50 per 1,000 places on Apify's free plan and $1.05 on paid plans, plus $0.001 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 [![Google Maps Business Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-thumb-v2.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v2.mp4)
 

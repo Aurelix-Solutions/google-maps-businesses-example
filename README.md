@@ -1,3 +1,5 @@
+**Google Maps Business Scraper - Phone Numbers, Emails.** Local business lists from Google Maps: phones, websites, ratings, hours, coordinates; optional website emails and socials. Price, example input and output, and FAQ: [Google Maps Phone Scraper on the Aurelix tools site](https://aurelix-solutions.github.io/tools/google-maps-scraper/). Run it on the Apify Store: [apify.com/aurelix/google-maps-scraper](https://apify.com/aurelix/google-maps-scraper).
+
 <!-- PUBLISH AFTER: google-maps-businesses is public on the Apify Store -->
 # Google Maps Business Scraper: Python example
 
@@ -15,7 +17,7 @@ export APIFY_TOKEN=your_token_here
 python main.py
 ```
 
-[![Google Maps Business Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-thumb-v2.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v2.mp4)
+[![Google Maps Phone Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-thumb-v2.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v2.mp4)
 
 **[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-maps-scraper-demo-v2.mp4)**
 
